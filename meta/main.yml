@@ -1,0 +1,19 @@
+galaxy_info:
+  author: DevOps
+  description: PHP 7.3 ppa
+  company: Entanet
+
+  license: BSD
+
+  min_ansible_version: 2.7
+
+  platforms:
+  - name: Ubuntu
+    versions:
+      - bionic
+
+  galaxy_tags:
+    - php
+    - 7.3
+
+dependencies: []
